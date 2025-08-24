@@ -20,7 +20,7 @@ My introduction to modding was Half-Life: Alyx, I made a [CoD Zombies like mod](
 
 I started decompiling FlatOut 2 because it's a game I'm nostalgic for, and I was curious how it worked.
 
-I didn't expect it but I really like making middle-ware. Anything that takes a tedious process and makes it easier, or takes a complicated syntax and simplifies it.
+I didn't expect it but I really like making middle-ware (is that the right word for it?). Anything that takes a tedious process and makes it easier, or takes a complicated syntax and simplifies it.
 
 <br>
 
